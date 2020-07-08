@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 23 09:52:41 2017
-
-@author: atse
-"""
 
 import xml.etree.ElementTree as ET
     #parses the xml into element form
