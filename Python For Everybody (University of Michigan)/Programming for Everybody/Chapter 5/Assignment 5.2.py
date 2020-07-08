@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 09:09:05 2017
-
-@author: atse
-"""
 
 largest = None
 smallest = None
