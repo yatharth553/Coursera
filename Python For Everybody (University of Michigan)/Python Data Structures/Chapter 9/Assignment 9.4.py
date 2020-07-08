@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 09:27:17 2017
-
-@author: atse
-"""
 
 file = input('Please enter file name: ')
 handle = open(file)
