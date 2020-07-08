@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 09:07:25 2017
-
-@author: atse
-"""
 
 def computepay(hrs,rps):
     final_pay = 0.0
