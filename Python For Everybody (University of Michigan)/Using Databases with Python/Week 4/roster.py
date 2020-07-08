@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 23 20:23:04 2017
-
-@author: atse
-"""
 
 import json
 import sqlite3
