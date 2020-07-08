@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 09:03:50 2017
-
-@author: atse
-"""
-
 try:
 	h = input("please input your hour:")
 	hour = float(h)
