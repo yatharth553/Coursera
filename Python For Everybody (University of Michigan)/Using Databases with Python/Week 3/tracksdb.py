@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 23 09:59:12 2017
-
-@author: atse
-"""
 
 import xml.etree.ElementTree as ET
 import sqlite3
