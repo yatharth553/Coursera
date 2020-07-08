@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Oct 16 09:04:59 2017
-
-@author: atse
-"""
 
 score  = float(input("Enter a score between 0.0 and 1.0: "))
 if score<0.0 or score>1.0:
